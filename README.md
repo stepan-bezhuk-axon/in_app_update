@@ -41,3 +41,4 @@ If your get error `ERROR_API_NOT_AVAILABLE`
 
 Be aware that this plugin cannot be tested locally. It must be installed via Google Play to work. 
 Please check the official documentation about In App Updates from Google.# in_app_update
+# in_app_update
